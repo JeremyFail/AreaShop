@@ -1,3 +1,5 @@
+**_This fork is now archived. I only made a small tweak so it would keep working on my server, after which I never did anything more with it. I recommend checking out the fork by [md5sha256](https://github.com/md5sha256/AreaShop) as it is in active development._**
+
 ![AreaShop logo](https://cloud.githubusercontent.com/assets/6951068/9471294/f016d8ee-4b4f-11e5-9bda-d61b1c423ebb.png)<br/>
 **Usage and configuration:**
 [►Download (releases)](https://github.com/NLthijs48/AreaShop/releases)&nbsp;&nbsp;
